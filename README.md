@@ -1,23 +1,22 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@github_id)
+# Joanna Berg (@joma13)
 
-optional tag-line
+Integrating business, science, and technology to achieve visions.
 
-<img align="right" width="250" src="avatar.png">
+<img align="right" width="250" src="">
 
 ## Bio
+Providing superior solutions for commercial and medical cannabis operations. The DBS skillset is incredibly unique and versitile. Agronomy, pest/disease diagnosis, soil science, chemistry, business development, data management, database development, and all facets of cannabis breeding, cultivation, extraction, and manufacturing.
 
-optional bio
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/joma13)
+* [linkedin](https://www.linkedin.com/in/joanna-berg-6a82b974/)
+* [Company Website](https://dbsanalytics.com/)
+* [Company Video](https://www.youtube.com/watch?v=vmocvLP2CCg)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   
-## Achievements
-TBD
