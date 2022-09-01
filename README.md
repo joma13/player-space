@@ -4,11 +4,11 @@
 
 Integrating business, science, and technology to achieve visions.
 
-<img align="right" width="250" src="">
 
 ## Bio
 Providing superior solutions for commercial and medical cannabis operations. The DBS skillset is incredibly unique and versitile. Agronomy, pest/disease diagnosis, soil science, chemistry, business development, data management, database development, and all facets of cannabis breeding, cultivation, extraction, and manufacturing.
 
+<img align="center" width="500" src="all four color.PNG">
 
 ## Identities
 * [github](https://github.com/joma13)
